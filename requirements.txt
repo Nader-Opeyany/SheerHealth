@@ -1,0 +1,6 @@
+#Run the below line in linux
+#pip install -r requirements.txt
+#-------------------------------
+# Dependent on python 3.8+ 
+requests
+beautifulsoup4
