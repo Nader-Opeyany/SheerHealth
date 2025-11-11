@@ -2,6 +2,8 @@ import requests
 from bs4 import BeautifulSoup
 import os
 import time 
+import json
+
 nhsDict = {}
 failedScrappingDict = {}
 #requests to extract html and css from nhs hyperlink 
@@ -50,7 +52,7 @@ for ul in soup.select("ul.nhsuk-list--border.nhsuk-list--links"):
 # for name,data in list(nhsDict.items())[:5]:
 #     print("{} {}".format(name,data["url"]))
 
-for name,url in list(nhsDict.items())[:5]:
+for name,url in list(nhsDict.items()):
     fixedUrl = url["url"]
     try:
         response = requests.get(fixedUrl)
@@ -63,12 +65,18 @@ for name,url in list(nhsDict.items())[:5]:
             summaryForMedicineText = summaryForMedicine.get_text(strip = True)
         else:
             summaryForMedicineText = ""
+
         #Dictonary of Dictonaries
         nhsDict[name]["summary"] = summaryForMedicineText 
         time.sleep(.1) #politness slower scrapping
-
     except:
         print("Failed to scrape {}".format(fixedUrl))
 
-for med,data in nhsDict.items():
-    print("{med}: {data['url']}\n{data['summary']}")
+#Sanity Check two
+# for med,data in nhsDict.items():
+#     print("{med}: {data['url']}\n{data['summary']}")
+
+jsonStringToWrite = json.dumps(nhsDict,indent=4,sort_keys=True,ensure_ascii=False)
+
+with open("SheerHealthFinalJSON.txt","w", encoding="utf-8") as f:
+    f.write(jsonStringToWrite)

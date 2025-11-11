@@ -1,0 +1,1174 @@
+{
+    "Aciclovir (Zovirax)": {
+        "summary": "Find out how aciclovir treats cold sores, chickenpox, shingles and other herpes virus infections, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/aciclovir/"
+    },
+    "Acrivastine": {
+        "summary": "Find out how acrivastine relieves allergy symptoms and reactions to insect bites and stings, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/acrivastine/"
+    },
+    "Adalimumab": {
+        "summary": "Brand names: Humira, Amgevita, Hyrimoz, Idacio, Imraldi, Yuflyma. Find out how adalimumab treats swelling (inflammation), and how to take it.",
+        "url": "https://www.nhs.uk/medicines/adalimumab/"
+    },
+    "Alendronic acid": {
+        "summary": "Find out how alendronic acid treats osteoporosis and how to take it.",
+        "url": "https://www.nhs.uk/medicines/alendronic-acid/"
+    },
+    "Allopurinol": {
+        "summary": "Find out how allopurinol treats gout and how to take it.",
+        "url": "https://www.nhs.uk/medicines/allopurinol/"
+    },
+    "Alogliptin": {
+        "summary": "Brand name: Vipidia. Find out how alogliptin treats type 2 diabetes, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/alogliptin/"
+    },
+    "Amitriptyline for depression": {
+        "summary": "Find out how amitriptyline treats depression and how to take it.",
+        "url": "https://www.nhs.uk/medicines/amitriptyline-for-depression/"
+    },
+    "Amitriptyline for pain and migraine": {
+        "summary": "Find out how amitriptyline treats pain and prevents migraine and how to take it.",
+        "url": "https://www.nhs.uk/medicines/amitriptyline-for-pain/"
+    },
+    "Amlodipine": {
+        "summary": "Brand name: Istin. Find out how amlodipine treats high blood pressure and helps to prevent heart disease, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/amlodipine/"
+    },
+    "Amoxicillin": {
+        "summary": "Find out how amoxicillin treats bacterial infections such as chest infections and dental abscesses, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/amoxicillin/"
+    },
+    "Anastrozole": {
+        "summary": "Find out how anastrozole treats and helps prevent breast cancer, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/anastrozole/"
+    },
+    "Antacids": {
+        "summary": "",
+        "url": "https://www.nhs.uk/medicines/antacids/"
+    },
+    "Antibiotics": {
+        "summary": "",
+        "url": "https://www.nhs.uk/medicines/antibiotics/"
+    },
+    "Anticoagulant medicines": {
+        "summary": "",
+        "url": "https://www.nhs.uk/medicines/anticoagulants/"
+    },
+    "Antidepressants": {
+        "summary": "Antidepressants are medicines that help mental health conditions such as depression and anxiety. They can cause side effects and affect other medicines you take.",
+        "url": "https://www.nhs.uk/medicines/antidepressants/"
+    },
+    "Antifungal medicines": {
+        "summary": "",
+        "url": "https://www.nhs.uk/medicines/antifungal-medicines/"
+    },
+    "Antihistamines": {
+        "summary": "",
+        "url": "https://www.nhs.uk/medicines/antihistamines/"
+    },
+    "Apixaban": {
+        "summary": "Find out how apixaban helps to prevent blood clots and reduces risk of heart attacks and stroke, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/apixaban/"
+    },
+    "Aripiprazole": {
+        "summary": "Find out how aripiprazole treats mental health conditions, including schizophrenia and bipolar disorder, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/aripiprazole/"
+    },
+    "Aspirin for pain relief": {
+        "summary": "Find out more about how aspirin is used for pain relief, and how to take or use it.",
+        "url": "https://www.nhs.uk/medicines/aspirin-for-pain-relief/"
+    },
+    "Aspirin – low-dose, see Low-dose aspirin": {
+        "summary": "Brand names: Danamep, Mandaprin, Nu-Seals. Find out how low-dose aspirin helps prevent heart attacks and strokes, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/low-dose-aspirin/"
+    },
+    "Atenolol": {
+        "summary": "Brand name: Tenormin. Find out how atenolol treats high blood pressure (hypertension), irregular heartbeats (arrhythmia) and angina, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/atenolol/"
+    },
+    "Atorvastatin": {
+        "summary": "Brand name: Lipitor. Find out how atorvastatin treats heart problems and how to take it.",
+        "url": "https://www.nhs.uk/medicines/atorvastatin/"
+    },
+    "Azathioprine": {
+        "summary": "Find out how azathioprine treats conditions that affect the immune system such as rheumatoid arthritis, Crohn's disease and ulcerative colitis, skin conditions such as lupus, and helps after an organ transplant, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/azathioprine/"
+    },
+    "Azithromycin": {
+        "summary": "Brand name: Zithromax. Find out how azithromycin treats infections and how to take it.",
+        "url": "https://www.nhs.uk/medicines/azithromycin/"
+    },
+    "Baclofen": {
+        "summary": "Brand names: Lioresal, Lyflex. Find out how baclofen relieves muscles spasms and helps manage conditions cerebral palsy, meningitis, motor neurone disease and multiple sclerosis.",
+        "url": "https://www.nhs.uk/medicines/baclofen/"
+    },
+    "Beclometasone inhalers": {
+        "summary": "Find out how beclometasone inhalers treat asthma and chronic obstructive pulmonary disease (COPD) and how to use them.",
+        "url": "https://www.nhs.uk/medicines/beclometasone-inhalers/"
+    },
+    "Beclometasone nasal spray": {
+        "summary": "Find out how beclometasone nasal spray treats allergic rhinitis including hay fever, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/beclometasone-nasal-spray/"
+    },
+    "Beclometasone skin cream": {
+        "summary": "Find out how beclometasone skin cream treats itching, swollen and irritated skin, and how to use it.",
+        "url": "https://www.nhs.uk/medicines/beclometasone-skin-creams/"
+    },
+    "Bendroflumethiazide": {
+        "summary": "Find out how bendroflumethiazide treats high blood pressure and build-up of fluid (oedema), and how to take it.",
+        "url": "https://www.nhs.uk/medicines/bendroflumethiazide/"
+    },
+    "Benzoyl peroxide": {
+        "summary": "Find out how benzoyl peroxide treats acne and how to use it.",
+        "url": "https://www.nhs.uk/medicines/benzoyl-peroxide/"
+    },
+    "Benzydamine": {
+        "summary": "Find out how benzydamine treats mouth ulcers, sore throat and teething, and how to use it.",
+        "url": "https://www.nhs.uk/medicines/benzydamine/"
+    },
+    "Beta blockers": {
+        "summary": "",
+        "url": "https://www.nhs.uk/medicines/beta-blockers/"
+    },
+    "Betahistine": {
+        "summary": "Find out how betahistine treats symptoms of Ménière's disease and how to take it.",
+        "url": "https://www.nhs.uk/medicines/betahistine/"
+    },
+    "Betamethasone for eyes, ears and nose": {
+        "summary": "Find out how betamethasone for eyes, ears and nose treats allergies and inflammation, and how to use it.",
+        "url": "https://www.nhs.uk/medicines/betamethasone-eyes-ears-and-nose/"
+    },
+    "Betamethasone for skin": {
+        "summary": "Find out how betamethasone for skin treats skin conditions such as eczema, contact dermatitis and psoriasis, and how to use it.",
+        "url": "https://www.nhs.uk/medicines/betamethasone-skin/"
+    },
+    "Bimatoprost (Lumigan)": {
+        "summary": "Find out how bimatoprost treats high pressure inside the eye (ocular hypertension) and glaucoma, and how to use it.",
+        "url": "https://www.nhs.uk/medicines/bimatoprost/"
+    },
+    "Bisacodyl": {
+        "summary": "Find out how bisacodyl treats constipation and how to take it.",
+        "url": "https://www.nhs.uk/medicines/bisacodyl/"
+    },
+    "Bismuth subsalicylate, see Pepto-Bismol (bismuth subsalicylate)": {
+        "summary": "Find out how Pepto-Bismol treats heartburn and acid reflux, indigestion, diarrhoea and feeling sick, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/pepto-bismol/"
+    },
+    "Bisoprolol": {
+        "summary": "Brand names: Cardicor, Congescor. Find out how bisoprolol treats high blood pressure (hypertension) and heart failure, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/bisoprolol/"
+    },
+    "Brinzolamide": {
+        "summary": "Find out how brinzolamide treats high pressure inside the eye (ocular hypertension) and glaucoma, and how to use it.",
+        "url": "https://www.nhs.uk/medicines/brinzolamide/"
+    },
+    "Budesonide inhalers": {
+        "summary": "Find out how budesonide inhalers treat asthma and chronic obstructive pulmonary disease (COPD) symptoms and how to use them.",
+        "url": "https://www.nhs.uk/medicines/budesonide-inhalers/"
+    },
+    "Budesonide nasal spray": {
+        "summary": "Find out how budesonide nasal spray treats cold-like symptoms caused by allergic rhinitis, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/budesonide-nasal-spray/"
+    },
+    "Budesonide rectal foam and enemas": {
+        "summary": "Find out how to use budesonide rectal foam and enemas to treat ulcerative colitis.",
+        "url": "https://www.nhs.uk/medicines/budesonide-rectal-foam-and-enemas/"
+    },
+    "Bumetanide": {
+        "summary": "Find out how bumetanide treats oedema (too much fluid in your body) and heart failure, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/bumetanide/"
+    },
+    "Buprenorphine for pain": {
+        "summary": "Find out how buprenorphine treats moderate to severe pain and how to take or use it.",
+        "url": "https://www.nhs.uk/medicines/buprenorphine-for-pain/"
+    },
+    "Buscopan (hyoscine butylbromide)": {
+        "summary": "Find out how Buscopan treats stomach cramps, irritable bowel syndrome and period pain and how to take it.",
+        "url": "https://www.nhs.uk/medicines/buscopan-hyoscine-butylbromide/"
+    },
+    "Calcipotriol": {
+        "summary": "Find out how calcipotriol treats plaque psoriasis and how to use it.",
+        "url": "https://www.nhs.uk/medicines/calcipotriol/"
+    },
+    "Calpol, see Paracetamol for children (Calpol)": {
+        "summary": "Paracetamol is a common painkiller for children that helps relieve pain and high temperature. You can buy most types from shops and pharmacies, but some types are only available with a prescription.",
+        "url": "https://www.nhs.uk/medicines/paracetamol-for-children/"
+    },
+    "Candesartan": {
+        "summary": "Brand name: Amias. Find out how candesartan treats high blood pressure (hypertension) and heart failure, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/candesartan/"
+    },
+    "Canesten, see Clotrimazole for thrush (Canesten)": {
+        "summary": "Find out how clotrimazole treats thrush and how to use it.",
+        "url": "https://www.nhs.uk/medicines/clotrimazole-for-thrush/"
+    },
+    "Cannabis oil (medical cannabis), see Medical cannabis (and cannabis oils)": {
+        "summary": "",
+        "url": "https://www.nhs.uk/medicines/medical-cannabis/"
+    },
+    "Carbamazepine": {
+        "summary": "Brand names: Tegretol, Curatil. Find out how carbamazepine treats epilepsy, nerve pain and bipolar disorder, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/carbamazepine/"
+    },
+    "Carbimazole": {
+        "summary": "Find out how carbimazole treats an overactive thyroid (hyperthyroidism), and how to take it.",
+        "url": "https://www.nhs.uk/medicines/carbimazole/"
+    },
+    "Carbocisteine": {
+        "summary": "Find out how carbocisteine treats chronic obstructive pulmonary disease (COPD) and cystic fibrosis and how to take it.",
+        "url": "https://www.nhs.uk/medicines/carbocisteine/"
+    },
+    "Carmellose sodium eye drops": {
+        "summary": "Find out how carmellose sodium eye drops treat dry eyes and how to use them.",
+        "url": "https://www.nhs.uk/medicines/carmellose-sodium/"
+    },
+    "Carvedilol": {
+        "summary": "Find out how carvedilol treats high blood pressure and helps prevent heart disease, angina and stroke, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/carvedilol/"
+    },
+    "Cefalexin": {
+        "summary": "Find out how cefalexin treats infections including urinary tract infections (UTIs), pneumonia and other chest infections, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/cefalexin/"
+    },
+    "Cetirizine": {
+        "summary": "Find out how cetirizine treats symptoms of allergies and how to take it.",
+        "url": "https://www.nhs.uk/medicines/cetirizine/"
+    },
+    "Chloramphenicol": {
+        "summary": "Brand name: Optrex Bacterial Conjunctivitis Eye Ointment. Find out how chloramphenicol treats eye and ear infections, and how to use it.",
+        "url": "https://www.nhs.uk/medicines/chloramphenicol/"
+    },
+    "Chlorhexidine": {
+        "summary": "Find out how chlorhexidine treats mouth ulcers, throat infections and skin infections and how to use it.",
+        "url": "https://www.nhs.uk/medicines/chlorhexidine/"
+    },
+    "Chlorphenamine (Piriton)": {
+        "summary": "Find out how chlorphenamine treats symptoms of allergies and how to take it.",
+        "url": "https://www.nhs.uk/medicines/chlorphenamine-including-piriton/"
+    },
+    "Cinnarizine": {
+        "summary": "Find out how cinnarizine treats travel sickness, vertigo, tinnitus and Ménière's disease, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/cinnarizine/"
+    },
+    "Ciprofloxacin": {
+        "summary": "Find out how ciprofloxacin treats serious infections and how to take or use it.",
+        "url": "https://www.nhs.uk/medicines/ciprofloxacin/"
+    },
+    "Citalopram": {
+        "summary": "Find out how citalopram treats low mood (depression) and panic attacks and how to take it.",
+        "url": "https://www.nhs.uk/medicines/citalopram/"
+    },
+    "Clarithromycin": {
+        "summary": "Brand names: Klaricid, Klaricid XL, Xetinin XL. Find out how clarithromycin treats chest infections and pneumonia, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/clarithromycin/"
+    },
+    "Clarityn, see Loratadine (Clarityn)": {
+        "summary": "Find out how loratadine relieves allergy symptoms and reactions to insect bites and stings.",
+        "url": "https://www.nhs.uk/medicines/loratadine/"
+    },
+    "Clobetasol": {
+        "summary": "Find out how clobetasol treats eczema, psoriasis and lichen planus, and how to use it.",
+        "url": "https://www.nhs.uk/medicines/clobetasol/"
+    },
+    "Clobetasone": {
+        "summary": "Find out how clobetasone treats skin itching, swelling and irritation, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/clobetasone/"
+    },
+    "Clonazepam": {
+        "summary": "Find out how clonazepam treats epileptic seizures or fits, muscle spasms, panic disorder and restless legs syndrome, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/clonazepam/"
+    },
+    "Clonidine": {
+        "summary": "Find out how clonidine treats high blood pressure and hot flushes, how it prevents migraines and how to take it.",
+        "url": "https://www.nhs.uk/medicines/clonidine/"
+    },
+    "Clopidogrel": {
+        "summary": "Find out how clopidogrel helps prevent blood clots and reduces the risk of heart attacks and strokes, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/clopidogrel/"
+    },
+    "Clotrimazole cream, spray and solution": {
+        "summary": "Find out how clotrimazole cream, spray and solution treats fungal infections and how to use it.",
+        "url": "https://www.nhs.uk/medicines/clotrimazole/"
+    },
+    "Clotrimazole for thrush (Canesten)": {
+        "summary": "Find out how clotrimazole treats thrush and how to use it.",
+        "url": "https://www.nhs.uk/medicines/clotrimazole-for-thrush/"
+    },
+    "Co-amoxiclav": {
+        "summary": "Find out how co-amoxiclav treats bacterial infections such as ear infections and urinary tract infections, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/co-amoxiclav/"
+    },
+    "Co-beneldopa": {
+        "summary": "Find out how co-beneldopa treats Parkinson's disease and how to take it.",
+        "url": "https://www.nhs.uk/medicines/co-beneldopa/"
+    },
+    "Co-careldopa": {
+        "summary": "Find out how co-careldopa treats Parkinson’s disease, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/co-careldopa/"
+    },
+    "Co-codamol for adults": {
+        "summary": "Find out how co-codamol treats pain in adults and how to take it.",
+        "url": "https://www.nhs.uk/medicines/co-codamol-for-adults/"
+    },
+    "Co-codamol for children": {
+        "summary": "Find out how co-codamol treats pain in children and how to take it.",
+        "url": "https://www.nhs.uk/medicines/co-codamol-for-children/"
+    },
+    "Co-dydramol": {
+        "summary": "Find out how co-dydramol treats headaches, joint pain and other aches and pains, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/co-dydramol/"
+    },
+    "Codeine": {
+        "summary": "Find out how codeine treats pain and how to take it.",
+        "url": "https://www.nhs.uk/medicines/codeine/"
+    },
+    "Colchicine": {
+        "summary": "Find out how colchicine treats inflammation and pain caused by gout and how to take it.",
+        "url": "https://www.nhs.uk/medicines/colchicine/"
+    },
+    "Colecalciferol": {
+        "summary": "Find out how colecalciferol treats and prevents lack of vitamin D, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/colecalciferol/"
+    },
+    "Continuous combined hormone replacement therapy (HRT) tablets, capsules and patches": {
+        "summary": "Find out how continuous combined hormone replacement therapy (HRT) treats menopause symptoms, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/hormone-replacement-therapy-hrt/continuous-combined-hormone-replacement-therapy-hrt-tablets-capsules-and-patches/"
+    },
+    "Contraceptive injections (medroxyprogesterone)": {
+        "summary": "Find out how medroxyprogesterone injections are used for contraception and how you have them.",
+        "url": "https://www.nhs.uk/medicines/contraceptive-injections-medroxyprogesterone/"
+    },
+    "Corticosteroids, see Steroids": {
+        "summary": "Steroids (also called corticosteroids) are medicines used to treat conditions that cause swelling (inflammation) in the body. Most steroids must be prescribed, but some can be bought from pharmacies and shops.",
+        "url": "https://www.nhs.uk/medicines/steroids/"
+    },
+    "Cyanocobalamin": {
+        "summary": "Find out how cyanocobalamin treats and prevents vitamin B12 deficiency anaemia, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/cyanocobalamin/"
+    },
+    "Cyclizine": {
+        "summary": "Brand name: Valoid. Find out how cyclizine treats nausea and vomiting, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/cyclizine/"
+    },
+    "Dapagliflozin": {
+        "summary": "Find out how dapagliflozin treats type 2 diabetes, heart failure and chronic kidney disease, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/dapagliflozin/"
+    },
+    "Decongestants": {
+        "summary": "",
+        "url": "https://www.nhs.uk/medicines/decongestants/"
+    },
+    "Dexamethasone eye drops": {
+        "summary": "Find out how dexamethasone eye drops treat eye inflammation and irritation, and how to use them.",
+        "url": "https://www.nhs.uk/medicines/dexamethasone-eye-drops/"
+    },
+    "Dexamethasone tablets and liquid": {
+        "summary": "Find out how dexamethasone tablets and liquid treat inflammatory conditions and autoimmune conditions, and how to take them.",
+        "url": "https://www.nhs.uk/medicines/dexamethasone-tablets-and-liquid/"
+    },
+    "Diazepam": {
+        "summary": "Brand names: Diazemuls, Stesolid Rectal Tubes, Diazepam Rectubes, Diazepam Desitin. Find out how diazepam treats anxiety, muscle spasms and seizures or fits, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/diazepam/"
+    },
+    "Diclofenac": {
+        "summary": "Find out how diclofenac treats pain and inflammation, and how to take or use it.",
+        "url": "https://www.nhs.uk/medicines/diclofenac/"
+    },
+    "Digoxin": {
+        "summary": "Find out how digoxin treats heart problems and how to take it.",
+        "url": "https://www.nhs.uk/medicines/digoxin/"
+    },
+    "Dihydrocodeine": {
+        "summary": "Find out how dihydrocodeine treats moderate to severe pain and how to take it.",
+        "url": "https://www.nhs.uk/medicines/dihydrocodeine/"
+    },
+    "Diltiazem": {
+        "summary": "Find out how diltiazem treats high blood pressure and how to take it.",
+        "url": "https://www.nhs.uk/medicines/diltiazem/"
+    },
+    "Diphenhydramine": {
+        "summary": "Find out how diphenhydramine treats symptoms of allergies and short-term insomnia, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/diphenhydramine/"
+    },
+    "Dipyridamole": {
+        "summary": "Find out how dipyridamole prevents blood clots and how to take it.",
+        "url": "https://www.nhs.uk/medicines/dipyridamole/"
+    },
+    "Docusate": {
+        "summary": "Find out how docusate treats constipation, and how to take or use it.",
+        "url": "https://www.nhs.uk/medicines/docusate/"
+    },
+    "Domperidone": {
+        "summary": "Find out how domperidone treats feeling sick (nausea) and vomiting, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/domperidone/"
+    },
+    "Donepezil": {
+        "summary": "Find out how donepezil treats dementia, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/donepezil/"
+    },
+    "Doxazosin": {
+        "summary": "Brand names: Cardura, Doxadura, Larbex, Raporsin, Slocin. Find out how doxazosin treats high blood pressure (hypertension) and symptoms of an enlarged prostate, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/doxazosin/"
+    },
+    "Doxycycline": {
+        "summary": "Doxycycline is an antibiotic medicine used to treat or prevent certain infections. It's only available with a prescription.",
+        "url": "https://www.nhs.uk/medicines/doxycycline/"
+    },
+    "Duloxetine": {
+        "summary": "Brand names: Cymbalta, Yentreve. Find out how duloxetine treats depression, anxiety, nerve pain and urinary incontinence, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/duloxetine/"
+    },
+    "Edoxaban": {
+        "summary": "Brand name: Lixiana. Find out how edoxaban helps to prevent blood clots and reduces risk of heart attacks and stroke, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/edoxaban/"
+    },
+    "Empagliflozin": {
+        "summary": "Find out how empagliflozin treats type 2 diabetes, heart failure and chronic kidney disease (CKD), and how to take it.",
+        "url": "https://www.nhs.uk/medicines/empagliflozin/"
+    },
+    "Enalapril": {
+        "summary": "Brand name: Innovace. Find out how enalapril treats high blood pressure (hypertension) and heart failure, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/enalapril/"
+    },
+    "Eplerenone": {
+        "summary": "Find out how eplerenone treats heart failure, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/eplerenone/"
+    },
+    "Erythromycin": {
+        "summary": "Brand names: Erythrocin, Erythroped, Erymax,  Erythroped A, Tiloryth. \r\nFind out how erythromycin treats chest and skin infections, ear infections and sexually transmitted infections (STIs), and how to take it.",
+        "url": "https://www.nhs.uk/medicines/erythromycin/"
+    },
+    "Escitalopram": {
+        "summary": "Brand name: Cipralex. Find out how escitalopram treats depression, anxiety, obsessive compulsive disorder (OCD) and panic attacks, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/escitalopram/"
+    },
+    "Esomeprazole": {
+        "summary": "Brand names: Nexium, Nexium Control, Emozul, Guardium Acid Reflux Control and Ventra. Find out how esomeprazole treats indigestion and heartburn and how to take it.",
+        "url": "https://www.nhs.uk/medicines/esomeprazole/"
+    },
+    "Ezetimibe": {
+        "summary": "Find out how ezetimibe treats high blood cholesterol and how to take it.",
+        "url": "https://www.nhs.uk/medicines/ezetimibe/"
+    },
+    "Felodipine": {
+        "summary": "Find out how felodipine treats high blood pressure (hypertension) and angina, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/felodipine/"
+    },
+    "Fentanyl": {
+        "summary": "Find out how fentanyl treats severe pain and how to take or use it.",
+        "url": "https://www.nhs.uk/medicines/fentanyl/"
+    },
+    "Ferrous fumarate": {
+        "summary": "Find out how ferrous fumarate treats and prevents iron deficiency anaemia, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/ferrous-fumarate/"
+    },
+    "Ferrous sulfate": {
+        "summary": "Find out how ferrous sulfate treats and prevents iron deficiency anaemia, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/ferrous-sulfate/"
+    },
+    "Fexofenadine": {
+        "summary": "Find out how fexofenadine treats symptoms of allergies and reactions to insect bites and stings, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/fexofenadine/"
+    },
+    "Finasteride": {
+        "summary": "Find out how finasteride treats benign prostate enlargement and hair loss in men, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/finasteride/"
+    },
+    "Flucloxacillin": {
+        "summary": "Find out how flucloxacillin treats infections and how to take it.",
+        "url": "https://www.nhs.uk/medicines/flucloxacillin/"
+    },
+    "Fluconazole": {
+        "summary": "Find out how fluconazole treats thrush and other fungal infections, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/fluconazole/"
+    },
+    "Fluoxetine (Prozac)": {
+        "summary": "Brand name: Prozac. Find out how fluoxetine treats mental health conditions including depression, obsessive compulsive disorder (OCD) and bulimia, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/fluoxetine-prozac/"
+    },
+    "Fluticasone inhalers": {
+        "summary": "Find out how inhaled fluticasone treats asthma and chronic obstructive pulmonary disease (COPD) and how to take it.",
+        "url": "https://www.nhs.uk/medicines/fluticasone-inhalers/"
+    },
+    "Fluticasone nasal spray and drops": {
+        "summary": "Find out how fluticasone nasal spray treats allergic rhinitis symptoms and how drops treat nasal polyps, and how to use them.",
+        "url": "https://www.nhs.uk/medicines/fluticasone-nasal-spray-and-drops/"
+    },
+    "Fluticasone skin creams": {
+        "summary": "Find out how fluticasone skin creams treat itching, swollen and irritated skin, and how to use them.",
+        "url": "https://www.nhs.uk/medicines/fluticasone-skin-creams/"
+    },
+    "Folic acid": {
+        "summary": "Find out how folic acid helps keep your baby healthy in pregnancy and treats or prevents folate deficiency anaemia and side effects of methotrexate, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/folic-acid/"
+    },
+    "Furosemide": {
+        "summary": "Brand names: Frusol, Diuresal. Find out how furosemide treats high blood pressure, heart failure and oedema, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/furosemide/"
+    },
+    "Fusidic acid": {
+        "summary": "Brand names: Fucithalmic, Fucidin. Find out how fusidic acid treats skin and eye infections and how to take it.",
+        "url": "https://www.nhs.uk/medicines/fusidic-acid/"
+    },
+    "Fybogel (ispaghula husk)": {
+        "summary": "Find out how Fybogel treats constipation and how to take it.",
+        "url": "https://www.nhs.uk/medicines/fybogel-ispaghula-husk/"
+    },
+    "Gabapentin": {
+        "summary": "Read about how gabapentin treats epilepsy and nerve pain and how to take it.",
+        "url": "https://www.nhs.uk/medicines/gabapentin/"
+    },
+    "Gaviscon": {
+        "summary": "Find out how Gaviscon treats indigestion, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/gaviscon/"
+    },
+    "Gliclazide": {
+        "summary": "Find out how gliclazide treats type 2 diabetes and how to take it.",
+        "url": "https://www.nhs.uk/medicines/gliclazide/"
+    },
+    "Glyceryl trinitrate (GTN)": {
+        "summary": "Find out how glyceryl trinitrate (GTN) treats angina (chest pain) and anal fissures and how to take it.",
+        "url": "https://www.nhs.uk/medicines/glyceryl-trinitrate-gtn/"
+    },
+    "Haloperidol": {
+        "summary": "Find out how haloperidol treats mental health conditions and feeling or being sick, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/haloperidol/"
+    },
+    "Herceptin, see Trastuzumab (Herceptin)": {
+        "summary": "Find out how trastuzumab treats some types of cancer and how you will be given it.",
+        "url": "https://www.nhs.uk/medicines/trastuzumab-herceptin/"
+    },
+    "Hormone replacement therapy (HRT)": {
+        "summary": "Find information about HRT for menopause symptoms, including the types of HRT, benefits and risks and how to take it.",
+        "url": "https://www.nhs.uk/medicines/hormone-replacement-therapy-hrt/"
+    },
+    "Hydrocortisone": {
+        "summary": "",
+        "url": "https://www.nhs.uk/medicines/hydrocortisone/"
+    },
+    "Hydrocortisone buccal tablets": {
+        "summary": "Find out how hydrocortisone buccal tablets treat mouth ulcers and how to use them.",
+        "url": "https://www.nhs.uk/medicines/hydrocortisone-buccal-tablets/"
+    },
+    "Hydrocortisone for piles and itchy bottom": {
+        "summary": "Find out how hydrocortisone cream, ointment, sprays and suppositories treat piles (haemorrhoids) and itchy bottom, and how to use them.",
+        "url": "https://www.nhs.uk/medicines/hydrocortisone-for-piles-and-itchy-bottom/"
+    },
+    "Hydrocortisone for skin": {
+        "summary": "Hydrocortisone is a steroid medicine used to treat eczema, insect bites and other skin conditions. You can buy most types from shops and pharmacies, but some types are only available with a prescription.",
+        "url": "https://www.nhs.uk/medicines/hydrocortisone-for-skin/"
+    },
+    "Hydrocortisone injections": {
+        "summary": "Find out how hydrocortisone injections treat swollen and painful joints, and how to get them.",
+        "url": "https://www.nhs.uk/medicines/hydrocortisone-injections/"
+    },
+    "Hydrocortisone rectal foam": {
+        "summary": "",
+        "url": "https://www.nhs.uk/medicines/hydrocortisone-rectal-foam/"
+    },
+    "Hydrocortisone tablets": {
+        "summary": "Find out how hydrocortisone tablets treat adrenal gland problems and how to take them.",
+        "url": "https://www.nhs.uk/medicines/hydrocortisone-tablets/"
+    },
+    "Hydroxocobalamin": {
+        "summary": "Find out how hydroxocobalamin treats and prevents vitamin B12 deficiency anaemia, and how you'll have it.",
+        "url": "https://www.nhs.uk/medicines/hydroxocobalamin/"
+    },
+    "Hydroxychloroquine": {
+        "summary": "Find out how hydroxychloroquine treats inflammatory conditions including rheumatoid arthritis and skin conditions, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/hydroxychloroquine/"
+    },
+    "Hyoscine butylbromide, see Buscopan (hyoscine butylbromide)": {
+        "summary": "Find out how Buscopan treats stomach cramps, irritable bowel syndrome and period pain and how to take it.",
+        "url": "https://www.nhs.uk/medicines/buscopan-hyoscine-butylbromide/"
+    },
+    "Hyoscine hydrobromide (Kwells and Joy-Rides)": {
+        "summary": "Find out how hyoscine hydrobromide treats travel sickness and how to take it.",
+        "url": "https://www.nhs.uk/medicines/hyoscine-hydrobromide/"
+    },
+    "Ibuprofen and codeine": {
+        "summary": "Find out how combined ibuprofen and codeine treats aches and pains and how to take it.",
+        "url": "https://www.nhs.uk/medicines/ibuprofen-and-codeine-nurofen-plus/"
+    },
+    "Ibuprofen for adults (Nurofen)": {
+        "summary": "Ibuprofen is a painkiller that helps relieve pain and reduce swelling (inflammation). You can buy most types from shops and pharmacies, but some types are only available with a prescription.",
+        "url": "https://www.nhs.uk/medicines/ibuprofen-for-adults/"
+    },
+    "Ibuprofen for children": {
+        "summary": "Find out how ibuprofen for children treats pain and inflammation (swelling) including cold symptoms, teething, toothache, sprains and strains, and reduces a high temperature, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/ibuprofen-for-children/"
+    },
+    "Imodium, see Loperamide (Imodium)": {
+        "summary": "Find out how loperamide treats diarrhoea and how to take it.",
+        "url": "https://www.nhs.uk/medicines/loperamide/"
+    },
+    "Indapamide": {
+        "summary": "Brand names: Natrilix, Indipam, Rawel, Tensaid, Alkapamid. Find out how indapamide treats high blood pressure and how to take it.",
+        "url": "https://www.nhs.uk/medicines/indapamide/"
+    },
+    "Insulin": {
+        "summary": "Find information about types of insulin and how to take insulin to treat type 1 diabetes, type 2 diabetes and gestational diabetes.",
+        "url": "https://www.nhs.uk/medicines/insulin/"
+    },
+    "Irbesartan": {
+        "summary": "Brand name: Aprovel. Find out how irbesartan treats high blood pressure (hypertension) and helps to prevent the risk of strokes, heart attacks and kidney problems.",
+        "url": "https://www.nhs.uk/medicines/irbesartan/"
+    },
+    "Isosorbide mononitrate and isosorbide dinitrate": {
+        "summary": "Find out how isosorbide mononitrate and isosorbide dinitrate prevent angina symptoms and treat heart failure, and how to take them.",
+        "url": "https://www.nhs.uk/medicines/isosorbide-mononitrate-dinitrate/"
+    },
+    "Isotretinoin capsules (Roaccutane)": {
+        "summary": "Other brand names: Rizuderm, Reticutan. Find out how isotretinoin capsules treat acne and how to take them.",
+        "url": "https://www.nhs.uk/medicines/isotretinoin-capsules/"
+    },
+    "Isotretinoin gel (Isotrex)": {
+        "summary": "",
+        "url": "https://www.nhs.uk/medicines/isotretinoin-gel/"
+    },
+    "Ispaghula husk, see Fybogel (ispaghula husk)": {
+        "summary": "Find out how Fybogel treats constipation and how to take it.",
+        "url": "https://www.nhs.uk/medicines/fybogel-ispaghula-husk/"
+    },
+    "Joy-Rides, see Hyoscine hydrobromide (Kwells and Joy-Rides)": {
+        "summary": "Find out how hyoscine hydrobromide treats travel sickness and how to take it.",
+        "url": "https://www.nhs.uk/medicines/hyoscine-hydrobromide/"
+    },
+    "Ketoconazole": {
+        "summary": "Find out how ketoconazole cream and shampoo treats fungal skin infections and how to use it.",
+        "url": "https://www.nhs.uk/medicines/ketoconazole/"
+    },
+    "Kwells, see Hyoscine hydrobromide (Kwells and Joy-Rides)": {
+        "summary": "Find out how hyoscine hydrobromide treats travel sickness and how to take it.",
+        "url": "https://www.nhs.uk/medicines/hyoscine-hydrobromide/"
+    },
+    "Lactulose": {
+        "summary": "Brand names: Duphalac, Lactugal. Find out how lactulose treats constipation and hepatic encephalopathy, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/lactulose/"
+    },
+    "Lamotrigine": {
+        "summary": "Brand name: Lamictal. Find out how lamotrigine treats epilepsy and bipolar disorder, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/lamotrigine/"
+    },
+    "Lansoprazole": {
+        "summary": "",
+        "url": "https://www.nhs.uk/medicines/lansoprazole/"
+    },
+    "Latanoprost": {
+        "summary": "Find out how latanoprost treats high pressure inside the eye, and how to use it.",
+        "url": "https://www.nhs.uk/medicines/latanoprost/"
+    },
+    "Laxatives": {
+        "summary": "",
+        "url": "https://www.nhs.uk/medicines/laxatives/"
+    },
+    "Lercanidipine": {
+        "summary": "Brand name: Zanidip. Find out how lercanidipine treats high blood pressure (hypertension), and how to take it.",
+        "url": "https://www.nhs.uk/medicines/lercanidipine/"
+    },
+    "Letrozole": {
+        "summary": "Find out how letrozole treats breast cancer and how to take it.",
+        "url": "https://www.nhs.uk/medicines/letrozole/"
+    },
+    "Levetiracetam": {
+        "summary": "Brand names: Keppra, Desitrend. Find out how levetiracetam treats epilepsy, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/levetiracetam/"
+    },
+    "Levothyroxine": {
+        "summary": "",
+        "url": "https://www.nhs.uk/medicines/levothyroxine/"
+    },
+    "Lidocaine skin cream": {
+        "summary": "Find out how lidocaine skin cream numbs the skin before minor procedures, and how to use it.",
+        "url": "https://www.nhs.uk/medicines/lidocaine-skin-cream/"
+    },
+    "Linagliptin": {
+        "summary": "Brand name: Trajenta. Find out how linagliptin treats type 2 diabetes, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/linagliptin/"
+    },
+    "Lisinopril": {
+        "summary": "Brand name: Zestril. Find out how lisinopril treats high blood pressure (hypertension) and heart failure, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/lisinopril/"
+    },
+    "Lithium": {
+        "summary": "Find out how lithium treats mood disorders such as mania and bipolar disorder, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/lithium/"
+    },
+    "Loperamide (Imodium)": {
+        "summary": "Find out how loperamide treats diarrhoea and how to take it.",
+        "url": "https://www.nhs.uk/medicines/loperamide/"
+    },
+    "Loratadine (Clarityn)": {
+        "summary": "Find out how loratadine relieves allergy symptoms and reactions to insect bites and stings.",
+        "url": "https://www.nhs.uk/medicines/loratadine/"
+    },
+    "Lorazepam": {
+        "summary": "Find out how lorazepam treats anxiety and sleeping problems, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/lorazepam/"
+    },
+    "Losartan": {
+        "summary": "Brand name: Cozaar. Find out how losartan treats high blood pressure (hypertension) and heart failure, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/losartan/"
+    },
+    "Low-dose aspirin": {
+        "summary": "Brand names: Danamep, Mandaprin, Nu-Seals. Find out how low-dose aspirin helps prevent heart attacks and strokes, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/low-dose-aspirin/"
+    },
+    "Lumigan, see Bimatoprost (Lumigan)": {
+        "summary": "Find out how bimatoprost treats high pressure inside the eye (ocular hypertension) and glaucoma, and how to use it.",
+        "url": "https://www.nhs.uk/medicines/bimatoprost/"
+    },
+    "Lymecycline": {
+        "summary": "Brand name: Tetralysal 300. Find out how lymecycline treats acne and infections and how to take it.",
+        "url": "https://www.nhs.uk/medicines/lymecycline/"
+    },
+    "Macrogol": {
+        "summary": "Find out how macrogol treats constipation and how to take it.",
+        "url": "https://www.nhs.uk/medicines/macrogol/"
+    },
+    "Mebendazole": {
+        "summary": "Find out how mebendazole treats threadworms, roundworms and other worm infections, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/mebendazole/"
+    },
+    "Mebeverine": {
+        "summary": "Find out how mebeverine treats muscle spasms and stomach cramps, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/mebeverine/"
+    },
+    "Medical cannabis (and cannabis oils)": {
+        "summary": "",
+        "url": "https://www.nhs.uk/medicines/medical-cannabis/"
+    },
+    "Medicines information": {
+        "summary": "",
+        "url": "https://www.nhs.uk/tests-and-treatments/medicines-information/"
+    },
+    "Medroxyprogesterone injections, see Contraceptive injections (medroxyprogesterone)": {
+        "summary": "Find out how medroxyprogesterone injections are used for contraception and how you have them.",
+        "url": "https://www.nhs.uk/medicines/contraceptive-injections-medroxyprogesterone/"
+    },
+    "Medroxyprogesterone tablets": {
+        "summary": "Find out how medroxyprogesterone tablets treat hormonal conditions such as heavy periods, endometriosis and polycystic ovary syndrome (PCOS), and how to take them.",
+        "url": "https://www.nhs.uk/medicines/medroxyprogesterone-tablets/"
+    },
+    "Melatonin": {
+        "summary": "Find out how melatonin treats sleep problems like insomnia, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/melatonin/"
+    },
+    "Memantine": {
+        "summary": "Find out how memantine treats dementia, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/memantine/"
+    },
+    "Mesalazine": {
+        "summary": "Find out how mesalazine treats inflammatory bowel conditions and how to take it.",
+        "url": "https://www.nhs.uk/medicines/mesalazine/"
+    },
+    "Metformin": {
+        "summary": "Find out how metformin treats type 2 diabetes, gestational diabetes and polycystic ovary syndrome, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/metformin/"
+    },
+    "Methadone": {
+        "summary": "Find out how methadone treats heroin dependence, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/methadone/"
+    },
+    "Methotrexate": {
+        "summary": "Find out how methotrexate treats rheumatoid arthritis, psoriasis, Crohn's disease and other autoimmune conditions, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/methotrexate/"
+    },
+    "Methylphenidate for adults": {
+        "summary": "Find out how methylphenidate treats attention deficit hyperactivity disorder (ADHD) in adults, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/methylphenidate-adults/"
+    },
+    "Methylphenidate for children": {
+        "summary": "Find out how methylphenidate for children treats attention deficit hyperactivity disorder (ADHD) and how to take it.",
+        "url": "https://www.nhs.uk/medicines/methylphenidate-children/"
+    },
+    "Metoclopramide": {
+        "summary": "Find out how metoclopramide treats feeling sick (nausea) and being sick (vomiting), and how to take it.",
+        "url": "https://www.nhs.uk/medicines/metoclopramide/"
+    },
+    "Metoprolol": {
+        "summary": "Find out how metoprolol treats high blood pressure, heart problems and migraine, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/metoprolol/"
+    },
+    "Metronidazole": {
+        "summary": "Find out how metronidazole treats infections and how to take it.",
+        "url": "https://www.nhs.uk/medicines/metronidazole/"
+    },
+    "Mirabegron": {
+        "summary": "Find out how mirabegron treats the symptoms of an overactive bladder such as needing to pee more often, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/mirabegron/"
+    },
+    "Mirtazapine": {
+        "summary": "Find out how mirtazapine treats depression, obsessive compulsive disorder (OCD) and anxiety, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/mirtazapine/"
+    },
+    "Mometasone for skin": {
+        "summary": "Find out how mometasone for skin treats eczema and psoriasis, and how to use it.",
+        "url": "https://www.nhs.uk/medicines/mometasone-for-skin/"
+    },
+    "Mometasone inhalers": {
+        "summary": "Find out how mometasone inhalers treat asthma and how to use them.",
+        "url": "https://www.nhs.uk/medicines/mometasone-inhaler/"
+    },
+    "Mometasone nasal spray": {
+        "summary": "Find out how mometasone nasal spray treats allergic rhinitis and hay fever, and how to use it.",
+        "url": "https://www.nhs.uk/medicines/mometasone-nasal-spray/"
+    },
+    "Montelukast": {
+        "summary": "Find out how montelukast treats symptoms of asthma and how to take it.",
+        "url": "https://www.nhs.uk/medicines/montelukast/"
+    },
+    "Morphine": {
+        "summary": "Brand names: MST, Zomorph, Sevredol, Morphgesic, MXL, Oramorph. Find out how morphine treats severe pain and how to take it.",
+        "url": "https://www.nhs.uk/medicines/morphine/"
+    },
+    "NSAIDs": {
+        "summary": "",
+        "url": "https://www.nhs.uk/medicines/nsaids/"
+    },
+    "Naproxen": {
+        "summary": "Find out how naproxen treats pain and swelling and how to take it.",
+        "url": "https://www.nhs.uk/medicines/naproxen/"
+    },
+    "Nefopam": {
+        "summary": "Find out how nefopam treats pain and how to take it.",
+        "url": "https://www.nhs.uk/medicines/nefopam/"
+    },
+    "Nicorandil": {
+        "summary": "Brand name: Ikorel. Find out how nicorandil treats chest pain (angina), and how to take it.",
+        "url": "https://www.nhs.uk/medicines/nicorandil/"
+    },
+    "Nifedipine": {
+        "summary": "Brand names: Adalat, Adipine, Coracten, Fortipine, Nifedipress. Find out how nifedipine treats high blood pressure, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/nifedipine/"
+    },
+    "Nitrofurantoin": {
+        "summary": "Brand names: Aratoin, Furadantin, Macrobid, Macrodantin. Find out how nitrofurantoin treats urinary tract infections (UTIs) and how to take it.",
+        "url": "https://www.nhs.uk/medicines/nitrofurantoin/"
+    },
+    "Nortriptyline": {
+        "summary": "Find out how nortriptyline treats nerve pain and depression, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/nortriptyline/"
+    },
+    "Nurofen, see Ibuprofen for adults (Nurofen)": {
+        "summary": "Ibuprofen is a painkiller that helps relieve pain and reduce swelling (inflammation). You can buy most types from shops and pharmacies, but some types are only available with a prescription.",
+        "url": "https://www.nhs.uk/medicines/ibuprofen-for-adults/"
+    },
+    "Nystatin": {
+        "summary": "Find out how nystatin treats and prevents infections caused by a fungus or yeast, including oral thrush and skin infections, and how to take or use it.",
+        "url": "https://www.nhs.uk/medicines/nystatin/"
+    },
+    "Oestrogen tablets, patches, gel and spray": {
+        "summary": "Find out how oestrogen treats menopause symptoms and prevents osteoporosis, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/hormone-replacement-therapy-hrt/oestrogen-tablets-patches-gel-and-spray/"
+    },
+    "Olanzapine": {
+        "summary": "Find out how olanzapine treats symptoms of mental health conditions such as bipolar disorder and schizophrenia, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/olanzapine/"
+    },
+    "Omeprazole": {
+        "summary": "Omeprazole is a medicine that reduces the amount of acid in your stomach. It's used to treat conditions such as heartburn. You can buy some types from pharmacies and shops, but most types are only available with a prescription.",
+        "url": "https://www.nhs.uk/medicines/omeprazole/"
+    },
+    "Oxybutynin": {
+        "summary": "Find out how oxybutynin treats symptoms of an overactive bladder, such as needing to pee more often, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/oxybutynin/"
+    },
+    "Oxycodone": {
+        "summary": "Find out how oxycodone treats severe pain and how to take it.",
+        "url": "https://www.nhs.uk/medicines/oxycodone/"
+    },
+    "Pantoprazole": {
+        "summary": "Find out how pantoprazole treats heartburn, acid reflux and stomach ulcers, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/pantoprazole/"
+    },
+    "Paracetamol for adults": {
+        "summary": "Find out how paracetamol for adults treats aches, pains and high temperature, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/paracetamol-for-adults/"
+    },
+    "Paracetamol for children (Calpol)": {
+        "summary": "Paracetamol is a common painkiller for children that helps relieve pain and high temperature. You can buy most types from shops and pharmacies, but some types are only available with a prescription.",
+        "url": "https://www.nhs.uk/medicines/paracetamol-for-children/"
+    },
+    "Paroxetine": {
+        "summary": "Brand name: Seroxat. Find out how paroxetine treats depression and anxiety, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/paroxetine/"
+    },
+    "Peppermint oil": {
+        "summary": "Find out how peppermint oil relieves stomach cramps, bloating and farting (flatulence), and how to take it.",
+        "url": "https://www.nhs.uk/medicines/peppermint-oil/"
+    },
+    "Pepto-Bismol (bismuth subsalicylate)": {
+        "summary": "Find out how Pepto-Bismol treats heartburn and acid reflux, indigestion, diarrhoea and feeling sick, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/pepto-bismol/"
+    },
+    "Perindopril": {
+        "summary": "Brand name: Coversyl Arginine. Find out how perindopril treats high blood pressure (hypertension) and heart failure, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/perindopril/"
+    },
+    "Phenergan, see Promethazine (Phenergan)": {
+        "summary": "Find out how promethazine treats hay fever and other allergy symptoms and how to take it.",
+        "url": "https://www.nhs.uk/medicines/promethazine/"
+    },
+    "Phenoxymethylpenicillin": {
+        "summary": "Brand name: Penicillin V. Find out how phenoxymethylpenicillin treats infections and how to take it.",
+        "url": "https://www.nhs.uk/medicines/phenoxymethylpenicillin/"
+    },
+    "Piriton, see Chlorphenamine (Piriton)": {
+        "summary": "Find out how chlorphenamine treats symptoms of allergies and how to take it.",
+        "url": "https://www.nhs.uk/medicines/chlorphenamine-including-piriton/"
+    },
+    "Pravastatin": {
+        "summary": "Find out how pravastatin treats high cholesterol and prevents heart attacks and strokes, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/pravastatin/"
+    },
+    "Pre-Exposure Prophylaxis (PrEP)": {
+        "summary": "Find out how PrEP reduces the risk of getting HIV and how to take it.",
+        "url": "https://www.nhs.uk/medicines/pre-exposure-prophylaxis-prep/"
+    },
+    "Prednisolone tablets and liquid": {
+        "summary": "Brand names: Deltacortril, Deltastab, Dilacort, Pevanti. Find out how prednisolone treats health problems and how to take it.",
+        "url": "https://www.nhs.uk/medicines/prednisolone/"
+    },
+    "Pregabalin": {
+        "summary": "",
+        "url": "https://www.nhs.uk/medicines/pregabalin/"
+    },
+    "Prochlorperazine": {
+        "summary": "Find out how prochlorperazine treats feeling or being sick, including pregnancy sickness, motion sickness and symptoms of Ménière's disease, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/prochlorperazine/"
+    },
+    "Progesterone, see Utrogestan (micronised progesterone)": {
+        "summary": "Find out how Utrogestan (micronised progesterone) treats menopause symptoms and protects your womb as part of hormone replacement therapy (HRT), and how to take it.",
+        "url": "https://www.nhs.uk/medicines/hormone-replacement-therapy-hrt/utrogestan-micronised-progesterone/"
+    },
+    "Promethazine (Phenergan)": {
+        "summary": "Find out how promethazine treats hay fever and other allergy symptoms and how to take it.",
+        "url": "https://www.nhs.uk/medicines/promethazine/"
+    },
+    "Propranolol": {
+        "summary": "",
+        "url": "https://www.nhs.uk/medicines/propranolol/"
+    },
+    "Prozac, see Fluoxetine (Prozac)": {
+        "summary": "Brand name: Prozac. Find out how fluoxetine treats mental health conditions including depression, obsessive compulsive disorder (OCD) and bulimia, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/fluoxetine-prozac/"
+    },
+    "Pseudoephedrine (Sudafed)": {
+        "summary": "Find out how pseudoephedrine treats a blocked or stuffy nose, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/pseudoephedrine/"
+    },
+    "Quetiapine": {
+        "summary": "Find out how quetiapine treats mental health conditions including schizophrenia and bipolar disorder, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/quetiapine/"
+    },
+    "Ramipril": {
+        "summary": "Brand name: Tritace. Find out how ramipril treats high blood pressure (hypertension) and heart failure, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/ramipril/"
+    },
+    "Ranitidine": {
+        "summary": "",
+        "url": "https://www.nhs.uk/medicines/ranitidine/"
+    },
+    "Risperidone": {
+        "summary": "Find out how risperidone treats mental health conditions, including schizophrenia and bipolar disorder, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/risperidone/"
+    },
+    "Rivaroxaban": {
+        "summary": "Brand name: Xarelto. Find out how rivaroxaban helps to prevent blood clots, reduces the risk of heart attacks and stroke, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/rivaroxaban/"
+    },
+    "Roaccutane, see Isotretinoin capsules (Roaccutane)": {
+        "summary": "Other brand names: Rizuderm, Reticutan. Find out how isotretinoin capsules treat acne and how to take them.",
+        "url": "https://www.nhs.uk/medicines/isotretinoin-capsules/"
+    },
+    "Ropinirole": {
+        "summary": "Find out how ropinirole treats the symptoms of Parkinson's disease and restless legs syndrome, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/ropinirole/"
+    },
+    "Rosuvastatin": {
+        "summary": "Brand name: Crestor. Find out how rosuvastatin treats high cholesterol and how to take it.",
+        "url": "https://www.nhs.uk/medicines/rosuvastatin/"
+    },
+    "Salbutamol inhalers": {
+        "summary": "Find out how salbutamol inhalers treat asthma and chronic obstructive pulmonary disease (COPD), and how to use them.",
+        "url": "https://www.nhs.uk/medicines/salbutamol-inhaler/"
+    },
+    "Senna": {
+        "summary": "Brand name: Senokot. Find out how senna treats difficulty pooing (constipation) and how to take it.",
+        "url": "https://www.nhs.uk/medicines/senna/"
+    },
+    "Sequential combined hormone replacement therapy (HRT) tablets and patches": {
+        "summary": "Find out how sequential combined hormone replacement therapy (HRT) containing oestrogen and progestogen treats menopause symptoms, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/hormone-replacement-therapy-hrt/sequential-combined-hormone-replacement-therapy-hrt-tablets-and-patches/"
+    },
+    "Sertraline": {
+        "summary": "Sertraline is an antidepressant medicine used to treat depression and other mental health conditions. It’s only available with a prescription.",
+        "url": "https://www.nhs.uk/medicines/sertraline/"
+    },
+    "Sildenafil (Viagra)": {
+        "summary": "Other brand names: Aronix, Liberize, Nipatra, Revatio, Grandipam. Find out how sildenafil treats erection problems and pulmonary hypertension and how to take it.",
+        "url": "https://www.nhs.uk/medicines/sildenafil-viagra/"
+    },
+    "Simeticone": {
+        "summary": "Find out how simeticone treats farting (flatulence), bloating and trapped wind, and colic in babies, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/simeticone/"
+    },
+    "Simvastatin": {
+        "summary": "Brand names: Zocor, Simvador. Find out how simvastatin treats high cholesterol, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/simvastatin/"
+    },
+    "Sitagliptin": {
+        "summary": "Brand name: Januvia. Find out how sitagliptin treats type 2 diabetes, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/sitagliptin/"
+    },
+    "Sodium valproate": {
+        "summary": "Find out how sodium valproate treats epilepsy and bipolar disorder and prevents migraine, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/sodium-valproate/"
+    },
+    "Solifenacin": {
+        "summary": "Find out how solifenacin treats symptoms of an overactive bladder, such as needing to pee more often, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/solifenacin/"
+    },
+    "Sotalol": {
+        "summary": "Find out how sotalol treats an irregular heartbeat and how to take it.",
+        "url": "https://www.nhs.uk/medicines/sotalol/"
+    },
+    "Spironolactone": {
+        "summary": "Find out how spironolactone treats oedema (build-up of fluid), high blood pressure and hormone conditions, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/spironolactone/"
+    },
+    "Statins": {
+        "summary": "",
+        "url": "https://www.nhs.uk/medicines/statins/"
+    },
+    "Steroids": {
+        "summary": "Steroids (also called corticosteroids) are medicines used to treat conditions that cause swelling (inflammation) in the body. Most steroids must be prescribed, but some can be bought from pharmacies and shops.",
+        "url": "https://www.nhs.uk/medicines/steroids/"
+    },
+    "Sudafed, see Pseudoephedrine (Sudafed)": {
+        "summary": "Find out how pseudoephedrine treats a blocked or stuffy nose, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/pseudoephedrine/"
+    },
+    "Sulfasalazine": {
+        "summary": "Find out how sulfasalazine treats inflammatory bowel disease and rheumatoid arthritis, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/sulfasalazine/"
+    },
+    "Sumatriptan": {
+        "summary": "Find out how sumatriptan treats migraines and cluster headaches, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/sumatriptan/"
+    },
+    "Tadalafil": {
+        "summary": "Find out how tadalafil treats erectile dysfunction, pulmonary hypertension and benign prostate enlargement, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/tadalafil/"
+    },
+    "Tamsulosin": {
+        "summary": "Find out how tamsulosin treats symptoms of an enlarged prostate and kidney stones, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/tamsulosin/"
+    },
+    "Terbinafine": {
+        "summary": "Find out how terbinafine treats fungal skin infections such as athlete's foot, and how to take or use it.",
+        "url": "https://www.nhs.uk/medicines/terbinafine/"
+    },
+    "Thiamine (vitamin B1)": {
+        "summary": "Find out how thiamine treats and prevents vitamin B1 deficiency and how to take it.",
+        "url": "https://www.nhs.uk/medicines/thiamine-vitamin-b1/"
+    },
+    "Tibolone": {
+        "summary": "Find out how tibolone treats menopause symptoms and helps to prevent osteoporosis (weakened bones), and how to take it.",
+        "url": "https://www.nhs.uk/medicines/hormone-replacement-therapy-hrt/tibolone/"
+    },
+    "Ticagrelor": {
+        "summary": "Find out how ticagrelor helps to prevent blood clots and how to take it.",
+        "url": "https://www.nhs.uk/medicines/ticagrelor/"
+    },
+    "Timolol eye drops": {
+        "summary": "Find out how timolol eye drops treat high pressure inside the eye or glaucoma, and how to use them.",
+        "url": "https://www.nhs.uk/medicines/timolol-eye-drops/"
+    },
+    "Tiotropium inhalers": {
+        "summary": "Find out how tiotropium inhalers treat chronic obstructive pulmonary disease (COPD) and asthma, and how to use them.",
+        "url": "https://www.nhs.uk/medicines/tiotropium-inhalers/"
+    },
+    "Tolterodine": {
+        "summary": "Find out how tolterodine treats symptoms of an overactive bladder, such as needing to pee more often, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/tolterodine/"
+    },
+    "Topiramate": {
+        "summary": "Brand name: Topamax. Find out how topiramate treats epilepsy and migraine, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/topiramate/"
+    },
+    "Tramadol": {
+        "summary": "Brand names: Maxitram, Marol, Zydol, Zamadol, Tramulief, Tramquel. Find out how tramadol treats moderate to severe pain and how to take it.",
+        "url": "https://www.nhs.uk/medicines/tramadol/"
+    },
+    "Tranexamic acid": {
+        "summary": "Find out how tranexamic acid treats bleeding, including heavy periods, nosebleeds and hereditary angioedema, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/tranexamic-acid/"
+    },
+    "Trastuzumab (Herceptin)": {
+        "summary": "Find out how trastuzumab treats some types of cancer and how you will be given it.",
+        "url": "https://www.nhs.uk/medicines/trastuzumab-herceptin/"
+    },
+    "Trazodone": {
+        "summary": "Brand name: Molipaxin. Find out how trazodone treats depression and anxiety and how to take it.",
+        "url": "https://www.nhs.uk/medicines/trazodone/"
+    },
+    "Trimethoprim": {
+        "summary": "",
+        "url": "https://www.nhs.uk/medicines/trimethoprim/"
+    },
+    "Utrogestan (micronised progesterone)": {
+        "summary": "Find out how Utrogestan (micronised progesterone) treats menopause symptoms and protects your womb as part of hormone replacement therapy (HRT), and how to take it.",
+        "url": "https://www.nhs.uk/medicines/hormone-replacement-therapy-hrt/utrogestan-micronised-progesterone/"
+    },
+    "Vaginal oestrogen": {
+        "summary": "Find out how vaginal oestrogen treats vaginal dryness caused by menopause, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/hormone-replacement-therapy-hrt/vaginal-oestrogen/"
+    },
+    "Valproic acid": {
+        "summary": "Find out how valproic acid treats bipolar disorder and epilepsy and prevents migraine, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/valproic-acid/"
+    },
+    "Valsartan": {
+        "summary": "Brand name: Diovan. Find out how valsartan treats high blood pressure and heart failure, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/valsartan/"
+    },
+    "Varenicline": {
+        "summary": "Varenicline is a medicine used to help stop smoking in adults. It reduces nicotine cravings and helps with withdrawal symptoms.",
+        "url": "https://www.nhs.uk/medicines/varenicline/"
+    },
+    "Venlafaxine": {
+        "summary": "Brand names: Vensir, Vencarm, Venlalix, Efexor, Venlablue. Find out how venlafaxine treats depression and anxiety, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/venlafaxine/"
+    },
+    "Verapamil": {
+        "summary": "Find out how verapamil treats high blood pressure and prevents chest pain caused by angina, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/verapamil/"
+    },
+    "Viagra, see Sildenafil (Viagra)": {
+        "summary": "Other brand names: Aronix, Liberize, Nipatra, Revatio, Grandipam. Find out how sildenafil treats erection problems and pulmonary hypertension and how to take it.",
+        "url": "https://www.nhs.uk/medicines/sildenafil-viagra/"
+    },
+    "Vitamin B1, see Thiamine (vitamin B1)": {
+        "summary": "Find out how thiamine treats and prevents vitamin B1 deficiency and how to take it.",
+        "url": "https://www.nhs.uk/medicines/thiamine-vitamin-b1/"
+    },
+    "Warfarin": {
+        "summary": "Find out how warfarin treats blood clots and reduces risk of heart attacks and stroke, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/warfarin/"
+    },
+    "Zolpidem": {
+        "summary": "Find out how zolpidem treats sleeping problems (insomnia) and how to take it.",
+        "url": "https://www.nhs.uk/medicines/zolpidem/"
+    },
+    "Zopiclone": {
+        "summary": "Brand name: Zimovane. Find out how zopiclone treats sleeping problems (insomnia) and how to take it.",
+        "url": "https://www.nhs.uk/medicines/zopiclone/"
+    },
+    "Zovirax, see Aciclovir (Zovirax)": {
+        "summary": "Find out how aciclovir treats cold sores, chickenpox, shingles and other herpes virus infections, and how to take it.",
+        "url": "https://www.nhs.uk/medicines/aciclovir/"
+    }
+}
